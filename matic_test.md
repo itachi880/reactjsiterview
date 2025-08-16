@@ -1,9 +1,12 @@
 $$
-A = \begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \end{bmatrix}
+A = \begin{bmatrix} 1 & 2 & 3 \\
+4 & 5 & 6 \end{bmatrix}
 $$
 
 $$
-B = \begin{bmatrix} 10 & 11 \\ 13 & 14 \\ 16 & 17 \end{bmatrix}
+B = \begin{bmatrix} 10 & 11 \\
+13 & 14 \\
+16 & 17 \end{bmatrix}
 $$
 
 Order:
